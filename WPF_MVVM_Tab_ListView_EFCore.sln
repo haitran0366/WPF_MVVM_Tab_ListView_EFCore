@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MVVM_Tab_ListView_EFCore", "WPF_MVVM_Tab_ListView_EFCore.csproj", "{E3E32B2E-FED7-4829-B244-433A5B264A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E32B2E-FED7-4829-B244-433A5B264A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E32B2E-FED7-4829-B244-433A5B264A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E32B2E-FED7-4829-B244-433A5B264A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E32B2E-FED7-4829-B244-433A5B264A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14224FD-83A1-4C94-ACB0-E52DEB36E567}
+	EndGlobalSection
+EndGlobal
